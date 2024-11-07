@@ -4,24 +4,14 @@ null,
 {"id":2,"expanded":false,"name":"House","order":2,"parentId":1,"scrollX":855.4285714285713,"scrollY":537.4285714285714},
 {"id":3,"expanded":false,"name":"Park","order":3,"parentId":1,"scrollX":855.4285714285713,"scrollY":537.4285714285714},
 {"id":4,"expanded":false,"name":"School Classroom","order":4,"parentId":1,"scrollX":1088.7272727272727,"scrollY":684},
-{"id":5,"expanded":true,"name":"Demon Castle","order":9,"parentId":1,"scrollX":1126.2857142857142,"scrollY":846},
+{"id":5,"expanded":true,"name":"Demon Castle","order":9,"parentId":1,"scrollX":1178.3999999999999,"scrollY":1009.1999999999999},
 {"id":6,"expanded":true,"name":"House2","order":12,"parentId":1,"scrollX":1197.6,"scrollY":752.4},
 {"id":7,"expanded":false,"name":"Park2","order":5,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":8,"expanded":true,"name":"Labratory Facility","order":7,"parentId":1,"scrollX":841.7142857142857,"scrollY":640.2857142857142},
-{"id":9,"expanded":false,"name":"Demon Castle 3","order":10,"parentId":1,"scrollX":1030.2857142857142,"scrollY":846},
-{"id":10,"expanded":true,"name":"Labratory Facility3","order":11,"parentId":1,"scrollX":841.7142857142857,"scrollY":662.5714285714286},
+{"id":8,"expanded":true,"name":"Labratory Facility","order":7,"parentId":1,"scrollX":1197.6,"scrollY":752.4},
+{"id":9,"expanded":false,"name":"Demon Castle 3","order":10,"parentId":1,"scrollX":1178.3999999999999,"scrollY":927.5999999999999},
+{"id":10,"expanded":true,"name":"Labratory Facility3","order":11,"parentId":1,"scrollX":1197.6,"scrollY":752.4},
 {"id":11,"expanded":true,"name":"Labratory Facility2","order":8,"parentId":1,"scrollX":841.7142857142857,"scrollY":662.5714285714286},
-<<<<<<< Updated upstream
-{"id":12,"expanded":false,"name":"Fortress","order":6,"parentId":1,"scrollX":1606.2857142857142,"scrollY":684.8571428571428},
-<<<<<<< Updated upstream
-{"id":13,"expanded":false,"name":"Tower 1F","order":14,"parentId":1,"scrollX":1178.3999999999999,"scrollY":1160.3999999999999},
-=======
 {"id":12,"expanded":false,"name":"Fortress","order":6,"parentId":1,"scrollX":1269.6,"scrollY":1035.6},
-{"id":13,"expanded":false,"name":"Tower 1F","order":14,"parentId":1,"scrollX":1071.2727272727273,"scrollY":930.5454545454546},
->>>>>>> Stashed changes
+{"id":13,"expanded":false,"name":"Tower 1F","order":14,"parentId":1,"scrollX":1178.3999999999999,"scrollY":865.1999999999999},
 {"id":14,"expanded":false,"name":"Village House 1F","order":13,"parentId":1,"scrollX":1197.6,"scrollY":752.4}
-=======
-{"id":13,"expanded":false,"name":"Tower 1F","order":14,"parentId":1,"scrollX":1034,"scrollY":609},
-{"id":14,"expanded":false,"name":"Village House 1F","order":13,"parentId":1,"scrollX":1088.7272727272727,"scrollY":684}
->>>>>>> Stashed changes
 ]
