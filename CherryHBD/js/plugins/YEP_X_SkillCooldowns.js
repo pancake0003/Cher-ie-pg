@@ -877,9 +877,22 @@ Game_BattlerBase.prototype.warmup = function(skillId) {
 };
 
 Game_BattlerBase.prototype.setCooldown = function(skillId, value) {
-    if (!$dataSkills[skillId]) return;
-    if ($dataSkills[skillId].bypassCooldown) return;
-    if (this._cooldownTurns === undefined) this.clearCooldowns();
+    if (!$dataSkills[skillId]) 
+    {
+      console.log("skillID not matched");
+      return;
+    }
+    if ($dataSkills[skillId].bypassCooldown)
+    {
+      console.log("skillID bypassed cooldown");
+      return;
+    }
+    if (this._cooldownTurns === undefined)
+    {
+      console.log("cooldown Turns undefined");
+      this.clearCooldowns();
+    }
+    console.log("Setting cooldown for skill:", skillId, "with value:", value);
     this._cooldownTurns[skillId] = value;
 };
 
