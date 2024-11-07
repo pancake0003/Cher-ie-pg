@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"cherry","characterIndex":0,"characterName":"cherry","classId":3,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cherry","nickname":"cherry","note":"","profile":"birthday girl"},
+{"id":2,"battlerName":"egg","characterIndex":0,"characterName":"egg","classId":1,"equips":[0,1,2,3,0],"faceIndex":0,"faceName":"eg","traits":[],"initialLevel":1,"maxLevel":99,"name":"Egg","nickname":"egg","note":"","profile":"round and white thing"},
+{"id":3,"battlerName":"pancake","characterIndex":0,"characterName":"pancake","classId":4,"equips":[0,0,2,3,4],"faceIndex":0,"faceName":"pancake","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pancake","nickname":"pancak","note":"","profile":":D"},
+{"id":4,"battlerName":"brain","characterIndex":0,"characterName":"brain","classId":2,"equips":[0,0,2,3,4],"faceIndex":0,"faceName":"brain","traits":[{"code":42,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Brian","nickname":"brian","note":"","profile":":\\"},
+{"id":5,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"car","nickname":"car","note":"","profile":""}
+]
